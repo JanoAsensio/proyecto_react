@@ -1,0 +1,40 @@
+{
+    "todos": [
+        {
+            "title": "Tarea 1",
+            "responsible": "Jano",
+            "description": "Tareas de relevancia a realizar por:",
+            "priority": "Baja"
+        },
+        {
+            "title": "Tarea 2",
+            "responsible": "Leandro",
+            "description": "Tareas de relevancia a realizar por:",
+            "priority": "Media"
+        },
+        {
+            "title": "Tarea 3",
+            "responsible": "Americo",
+            "description": "Tareas de relevancia a realizar por:",
+            "priority": "Alta"
+        },
+        {
+            "title": "Tarea 4",
+            "responsible": "David",
+            "description": "Tareas de relevancia a realizar por:",
+            "priority": "Baja"
+        },
+        {
+            "title": "Tarea 5",
+            "responsible": "Santiago",
+            "description": "Tareas de relevancia a realizar por:",
+            "priority": "Media"
+        },
+        {
+            "title": "Tarea 6",
+            "responsible": "Francisco",
+            "description": "Tareas de relevancia a realizar por:",
+            "priority": "Alta"
+        }
+    ]
+}
